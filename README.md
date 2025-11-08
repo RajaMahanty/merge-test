@@ -1,3 +1,3 @@
 # merge-test
 
-Readme updated by main branch
+readme udpated by manisha branch
